@@ -34,7 +34,7 @@
   <properties>
      <!-- defined in order to run against a different MINA version -->
      <mina.version>${project.version}</mina.version>
-     <netty.version>3.5.9.Final</netty.version>
+     <netty.version>3.9.8.Final</netty.version>
   </properties>
 
   <dependencies>
